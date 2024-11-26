@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Materia
+comment0.text=\n\ Write\ a\ description\ of\ class\ Materia\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Materia()
+comment2.params=est
+comment2.target=java.lang.String\ inscribir(Estudiante)
+comment3.params=codSis
+comment3.target=Estudiante\ buscarPorCodigo(int)
+comment4.params=codSis\ n\ nP
+comment4.target=void\ ingresarNotaPar(int,\ int,\ int)
+comment5.params=codSis\ n
+comment5.target=void\ ingresarNotaSI(int,\ int)
+numComments=6

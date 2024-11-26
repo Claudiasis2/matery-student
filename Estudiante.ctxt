@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Estudiante
+comment0.text=\n\ Write\ a\ description\ of\ class\ Estudiante\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=codSis\ nombre\ apellido
+comment1.target=Estudiante(int,\ java.lang.String,\ java.lang.String)
+comment2.params=nota\ numeroParcial
+comment2.target=void\ registrarParcial(int,\ int)
+comment3.params=nota
+comment3.target=void\ registrarSegundaInstancia(int)
+comment4.params=
+comment4.target=int\ getCodSis()
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+comment6.params=
+comment6.target=java.lang.String\ getApellido()
+comment7.params=obj
+comment7.target=boolean\ equals(java.lang.Object)
+numComments=8

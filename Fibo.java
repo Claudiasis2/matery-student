@@ -1,10 +1,5 @@
 
-/**
- * Write a description of class Fibo here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+
 public class Fibo
 {
     public int fib(int n){
